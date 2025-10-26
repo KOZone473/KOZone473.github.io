@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1d627aa.css",
-    "main.js": "/static/js/main.d8af8d56.js",
-    "static/js/453.11e65174.chunk.js": "/static/js/453.11e65174.chunk.js",
+    "main.css": "/static/css/main.34a4e50d.css",
+    "main.js": "/static/js/main.20727b23.js",
+    "static/media/logo.png": "/static/media/logo.2dbe1f2151cf44ac2a51.png",
+    "static/media/cl.png": "/static/media/cl.3e51f4abe071c0e04b8f.png",
+    "static/media/madonna.png": "/static/media/madonna.c190a35ecf8dd578ac41.png",
+    "static/media/mrto.png": "/static/media/mrto.a66532b6b0664b20e5b9.png",
+    "static/media/verrastro.png": "/static/media/verrastro.112d00861bc0023f19d2.png",
+    "static/media/lomio.png": "/static/media/lomio.d1da785fe304c4e69c53.png",
+    "static/media/pecoriello.png": "/static/media/pecoriello.692d5b062120271aa678.png",
+    "static/media/quadratino.png": "/static/media/quadratino.2732a15be31c3dabddfe.png",
+    "static/media/guidone.png": "/static/media/guidone.70f190b5891900d63a39.png",
+    "static/media/angarola.png": "/static/media/angarola.b4e05cfefc5e905edca2.png",
+    "static/media/oddone.png": "/static/media/oddone.9ab063234cec6ccc84d9.png",
+    "static/media/mussuto.png": "/static/media/mussuto.19f4cf7c11e083a613e5.png",
+    "static/media/vizza.png": "/static/media/vizza.71e75d7b810f8988735d.png",
     "index.html": "/index.html",
-    "main.c1d627aa.css.map": "/static/css/main.c1d627aa.css.map",
-    "main.d8af8d56.js.map": "/static/js/main.d8af8d56.js.map",
-    "453.11e65174.chunk.js.map": "/static/js/453.11e65174.chunk.js.map"
+    "main.34a4e50d.css.map": "/static/css/main.34a4e50d.css.map",
+    "main.20727b23.js.map": "/static/js/main.20727b23.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1d627aa.css",
-    "static/js/main.d8af8d56.js"
+    "static/css/main.34a4e50d.css",
+    "static/js/main.20727b23.js"
   ]
 }
